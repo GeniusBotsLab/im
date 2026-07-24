@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/agentic-ai-hero.svg" alt="Autonomous AI Systems — multi-agent orchestration" width="100%" />
+  <img src="assets/autonomous-ai-systems-premium.png" alt="Autonomous AI Systems — multi-agent orchestration" width="100%" />
 </div>
 
 # IM — Autonomous AI Systems & Digital Automation
