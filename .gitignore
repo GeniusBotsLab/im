@@ -1,0 +1,38 @@
+# Secrets and local environments
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+id_rsa
+id_ed25519
+credentials.json
+service-account*.json
+
+# Private data, logs and backups
+*.log
+logs/
+data/
+backups/
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# OS, IDE and build files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+coverage/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
