@@ -1,36 +1,25 @@
-# プロフェッショナル・プロフィール
+# GeniusBotsLab — AI自動化、ソフトウェア開発、動画ワークフロー
 
-**自律型AIエージェント · マルチエージェント・オーケストレーション · LLMOps · AgentOps · モデルルーティング · トークンコスト最適化 · ローカルLLM · 24時間365日自動化**
+**AI自動化開発者 · AI支援開発者 · AI動画ワークフロー構築者**
 
-複雑なワークフローを、制御可能でコスト最適化された24時間365日稼働の自動化パイプラインへ変換する自律型AIエージェントシステムを設計・導入します。
+自動化、ソフトウェア開発、動画制作のために、人間によるレビューを組み込んだ実用的なAIワークフローを構築します。
 
-10年以上の本番環境経験を持つAIシステムエンジニア／デジタル自動化スペシャリストです。自律エージェント、エージェント群、マルチエージェント・オーケストレーション、LLMモデル間ルーティング、オープンソースモデルのローカル運用、トークンコスト最適化を専門とします。
+[English](../README.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
 
-単発スクリプトではなく、再現可能な本番システムを構築します。エージェントはデータ収集・分析、コードの作成と実行、API、ブラウザ、ドキュメント、Telegram、データベース、サーバーとの連携を行い、必要な形式で成果を届けます。
+## 取り組む領域
 
-## 専門領域
+- 明確な入力、構造化された出力、レビュー手順を備えたAI自動化とエージェントワークフロー。
+- Claude、Claude Code、ChatGPT、Cursorを用いるAI支援ソフトウェア開発。分析、実装案、リファクタリング、テスト、文書化を行い、最終コードは手動でレビュー・検証します。
+- AI動画ワークフロー：ブリーフ、コンセプト、シーン案、選定、編集、字幕、品質管理。
+- LLMOps / AgentOps：モデルルーティング、ログ、リトライ/フォールバック、コスト管理、人間による承認。
 
-ビジネスおよび技術課題に合わせ、アーキテクチャ、役割分担、導入、デバッグ、監視、実行コスト最適化までを設計します。複雑なタスクを researcher、parser、analyst、coder、validator、reviewer、dispatcher、executor、reporter などの専門エージェントに分割します。
+公開可能な独立した成果物のみを掲載し、顧客データ、認証情報、非公開インフラは含めません。
 
-モデルルーティング、プロンプト圧縮、キャッシュ、コンテキスト削減、構造化出力、高ボリューム処理用のローカルLLM、クラウド＋ローカルのハイブリッドパイプラインでトークンコストを最適化します。単純な処理は低コストモデルへ、高度な推論は強力なLLMへ割り当てます。
+## Public work
 
-Llama、Mistral、Qwenなどを自社インフラにローカル展開し、オンプレミスでのデータ保持、外部API依存の低減、コスト管理を実現します。
+- [Swarm Agent Coordinator](https://github.com/GeniusBotsLab/swarm-agent-coordinator)
+- [TextFix](https://github.com/GeniusBotsLab/textfix)
+- [Self-Correcting Link Parser](https://github.com/GeniusBotsLab/self-correcting-link-parser)
+- [ZennoPoster YouTube Automation Course](https://github.com/GeniusBotsLab/zennoposter-youtube-automation-course)
 
-## AgentOps / LLMOps
-
-専用サーバーでの24時間365日実行、エージェント自動再起動、retry/fallbackロジック、タスクキュー、意思決定と操作のログ、状態監視、token usage管理、リスク操作のhuman-in-the-loop、結果検証、再現可能な実行を運用します。
-
-## 可能なこと・実績・技術スタック
-
-Web、Telegram、API、文書、表計算、メールからのデータ収集・処理、Webリサーチ、ソース監視、エンティティ抽出、分類、比較、レポート生成、コード自動化、ブラウザ、WebSocket、CRM、Telegram Bot API、ファイル、DB、バックエンド連携、ルール／LLM／ハイブリッドロジックによる意思決定、OSINTと情報監視を実施します。
-
-データエージェント、リサーチ・コード・コンテンツ・監視・運用のマルチエージェントワークフロー、Telegram自動化、Telegram／WhatsApp／Facebook／Instagram／TikTok／YouTube／X向けマルチチャネルシステム、LLMコンテンツワークフロー、ショート動画パイプライン、毎分最大500通のメール自動化、プロキシネットワーク、キュー、API統合、サーバー、エミュレーター、VM環境を手がけています。
-
-Claude API、GPT-4、OpenAI互換API、ローカルLLM、Llama、Mistral、Qwen、Python、Node.js、WebSocket、REST API、Telegram Bot API、ブラウザ自動化、SQLite、Qdrant、ベクトル検索、ナレッジグラフ、専用サーバー、VM／エミュレーター、GitHub、Cursor、ZennoPosterを使用します。
-
-コンサルティング、プロジェクト協業、フルタイムのリモート勤務に対応可能です。
-
-## 連絡先
-
-- Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)
-- Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
+**Contact:** [BotsLab@proton.me](mailto:BotsLab@proton.me) · [@TheBotsLab](https://t.me/TheBotsLab)

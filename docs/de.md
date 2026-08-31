@@ -1,38 +1,25 @@
-# Berufsprofil
+# GeniusBotsLab — KI-Automatisierung, Softwareentwicklung und Video-Workflows
 
-**Autonome KI-Agenten · Multi-Agent-Orchestrierung · LLMOps · AgentOps · Model Routing · Token-Kostenoptimierung · Lokale LLMs · 24/7-Automatisierung**
+**Entwickler für KI-Automatisierung · AI-assisted Developer · KI-Video-Workflow Builder**
 
-Ich entwerfe und betreibe autonome KI-Agentensysteme, die komplexe Workflows in kontrollierbare, kostenoptimierte 24/7-Automatisierungspipelines überführen.
+Ich entwickle praktische, menschlich geprüfte KI-Workflows für Automatisierung, Softwareentwicklung und Videoproduktion.
 
-KI-Systemingenieur und Spezialist für digitale Automatisierung mit mehr als 10 Jahren Produktionserfahrung. Schwerpunkte: autonome Agenten, Agentenschwärme, Multi-Agent-Orchestrierung, Routing zwischen LLM-Modellen, lokale Open-Source-Modelle und Token-Kostenoptimierung.
+[English](../README.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
 
-Ich entwickle reproduzierbare Produktionssysteme statt Einmalskripte. Agenten sammeln und analysieren Daten, schreiben und führen Code aus und arbeiten mit APIs, Browsern, Dokumenten, Telegram, Datenbanken und Servern.
+## Schwerpunkte
 
-## Kernkompetenz
+- KI-Automatisierung und Agenten-Workflows mit klaren Eingaben, strukturierten Ergebnissen und Review-Schritten.
+- AI-assisted Software Delivery mit Claude, Claude Code, ChatGPT und Cursor: Analyse, Entwürfe, Refactoring, Tests und Dokumentation; finaler Code wird manuell geprüft.
+- KI-Video-Workflows: Briefing, Konzept, Szenenvarianten, Auswahl, Schnitt, Untertitel und Qualitätskontrolle.
+- LLMOps/AgentOps: Model Routing, Kontextkontrolle, Retry/Fallback, Logs, Kostenkontrolle und menschliche Freigaben.
 
-Entwurf von Agentensystemen für konkrete Geschäfts- und Technikaufgaben — von Architektur und Rollenverteilung bis zu Betrieb, Debugging, Monitoring und Kostenoptimierung. Multi-Agent-Workflows nutzen spezialisierte Rollen wie Researcher, Parser, Analyst, Coder, Validator, Reviewer, Dispatcher, Executor und Reporter.
+## Öffentliche Arbeiten
 
-Tokenkosten werden durch Model Routing, Prompt Compression, Caching, Kontextreduktion, strukturierte Ausgaben, lokale LLMs für große Volumen und hybride Cloud-/Local-Pipelines optimiert. Einfache Aufgaben laufen auf wirtschaftlichen Modellen, anspruchsvolle Reasoning-Aufgaben auf stärkeren LLMs.
+- [Swarm Agent Coordinator](https://github.com/GeniusBotsLab/swarm-agent-coordinator)
+- [TextFix](https://github.com/GeniusBotsLab/textfix)
+- [Self-Correcting Link Parser](https://github.com/GeniusBotsLab/self-correcting-link-parser)
+- [ZennoPoster YouTube Automation Course](https://github.com/GeniusBotsLab/zennoposter-youtube-automation-course)
 
-Lokale LLMs wie Llama, Mistral und Qwen werden auf eigener Infrastruktur betrieben, um Daten on-premises zu halten und die Abhängigkeit von externen APIs zu reduzieren.
+Nur eigenständige, veröffentlichbare Materialien sind hier dokumentiert. Keine Kundendaten, Zugangsdaten oder private Infrastruktur.
 
-## AgentOps / LLMOps
-
-Produktionsbetrieb mit 24/7-Ausführung auf dedizierten Servern, Autorestart, Retry-/Fallback-Logik, Aufgabenwarteschlangen, Protokollierung, Monitoring, Token-Kontrolle, Human-in-the-loop bei risikoreichen Aktionen, Ergebnisvalidierung und reproduzierbaren Läufen.
-
-## Fähigkeiten und Projekte
-
-Datensammlung und -verarbeitung aus Websites, Telegram, APIs, Dokumenten, Tabellen und E-Mail; Webrecherche, Quellenmonitoring, Entity Extraction, Klassifizierung und Berichte; Code-Automatisierung; Browser, WebSocket, CRM, Telegram Bot API, Dateien, Datenbanken und Backends; regel- oder LLM-basierte Entscheidungen; OSINT-Monitoring.
-
-Umgesetzt: autonome Datenagenten, Multi-Agent-Workflows für Forschung, Code, Content, Monitoring und Operations; Telegram-Automatisierung; Multichannel-Systeme für Telegram, WhatsApp, Facebook, Instagram, TikTok, YouTube und X; LLM-Content-Workflows, Short-Form-Video-Pipelines, E-Mail-Automatisierung bis 500 E-Mails/Minute, Proxy-Netzwerke, Queues, APIs, Server, Emulatoren und VM-Umgebungen.
-
-## Stack und Verfügbarkeit
-
-Claude API, GPT-4, OpenAI-kompatible APIs, lokale LLMs, Llama, Mistral, Qwen, Python, Node.js, WebSocket, REST API, Telegram Bot API, Browser Automation, SQLite, Qdrant, Vector Search, Knowledge Graphs, Dedicated Servers, VM/Emulatoren, GitHub, Cursor, ZennoPoster.
-
-Verfügbar für Beratung, Projektzusammenarbeit oder Festanstellung — remote.
-
-## Kontakt
-
-- Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)
-- Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
+**Kontakt:** [BotsLab@proton.me](mailto:BotsLab@proton.me) · [@TheBotsLab](https://t.me/TheBotsLab)
