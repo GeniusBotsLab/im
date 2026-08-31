@@ -1,36 +1,25 @@
-# Perfil profissional
+# GeniusBotsLab — Automação com IA, desenvolvimento de software e fluxos de vídeo
 
-**Agentes de IA autónomos · Orquestación multiagente · LLMOps · AgentOps · Enrutamiento de modelos · Optimización de custos de tokens · LLM locales · Automatización 24/7**
+**Desenvolvedor de automação com IA · Desenvolvedor assistido por IA · Criador de fluxos de vídeo com IA**
 
-Projeto e lanço sistemas autónomos de agentes de IA que convierten workflows complejos en pipelines de automatización 24/7 controlados y optimizados en custos.
+Construo fluxos de trabalho práticos e revisados por pessoas para automação, desenvolvimento de software e produção de vídeo.
 
-Engenheiro de sistemas de IA y especialista en automatización digital con mais de 10 años de experiencia en producción. Especialização: agentes autónomos, enjambres de agentes, orquestación multiagente, routing entre modelos LLM, despliegue local de modelos open source y optimización de custos de tokens.
+[English](../README.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
 
-Construo sistemas de producción reproducibles, no scripts aislados. Los agentes recopilan y analizan datos, escriben y ejecutan código, y trabajan con API, navegadores, documentos, Telegram, bases de datos y servidores.
+## Áreas de trabalho
 
-## Especialização
+- Automação com IA e fluxos de agentes com entradas claras, saídas estruturadas e etapas de revisão.
+- Desenvolvimento assistido por IA com Claude, Claude Code, ChatGPT e Cursor: análise, mudanças iniciais, refatoração, testes e documentação; o código final é revisado manualmente.
+- Fluxos de vídeo com IA: brief, conceito, opções de cenas, seleção, edição, legendas e controle de qualidade.
+- Fundamentos de LLMOps / AgentOps: roteamento de modelos, logs, retry/fallback, controle de custos e aprovação humana.
 
-Projeto sistemas de agentes para necessidades concretas de negocio y tecnología: arquitectura, distribución de roles, implantação, depuración, monitorização y optimización de custos. Los workflows multiagente dividen tarefas complejas entre researcher, parser, analyst, coder, validator, reviewer, dispatcher, executor y reporter.
+Este portfólio apresenta apenas materiais independentes que podem ser publicados; não contém dados de clientes, credenciais ou infraestrutura privada.
 
-Optimizo custos mediante model routing, compresión de prompts, caché, reducción de contexto, salidas estructuradas, LLM locales para alto volumen y pipelines híbridos cloud + local. Las tarefas simples se asignan a modelos económicos y las de razonamiento complejo a LLM más potentes.
+## Public work
 
-Implanto Llama, Mistral, Qwen y otros modelos open source en infraestrutura própria para mantener los datos on-premises y controlar custos.
+- [Swarm Agent Coordinator](https://github.com/GeniusBotsLab/swarm-agent-coordinator)
+- [TextFix](https://github.com/GeniusBotsLab/textfix)
+- [Self-Correcting Link Parser](https://github.com/GeniusBotsLab/self-correcting-link-parser)
+- [ZennoPoster YouTube Automation Course](https://github.com/GeniusBotsLab/zennoposter-youtube-automation-course)
 
-## AgentOps / LLMOps
-
-Operación de producción con ejecución 24/7, reinicio automático, retry/fallback, colas de tarefas, registros, monitorização, control de tokens, human-in-the-loop para acciones de riesgo, validación y ejecuciones reproducibles.
-
-## Capacidades, experiência e stack
-
-Coleta y procesamiento de datos desde webs, Telegram, API, documentos, hojas de cálculo y email; pesquisa web, monitorização de fuentes, extracción de entidades, clasificación, comparación e informes; automatización de código; navegadores, WebSocket, CRM, Telegram Bot API, archivos, bases de datos y backends; decisiones por reglas, LLM o lógica híbrida; OSINT y monitoreo informativo.
-
-Experiencia: agentes autónomos de datos, workflows multiagente para pesquisa, código, contenido, monitorização y operaciones; automatización de Telegram; sistemas multicanal para Telegram, WhatsApp, Facebook, Instagram, TikTok, YouTube y X; workflows de contenido LLM, vídeo corto, infraestructura de email hasta 500 e-mailss/minuto, redes proxy, colas, APIs, servidores, emuladores y VM.
-
-Stack: Claude API, GPT-4, API compatibles con OpenAI, LLM locales, Llama, Mistral, Qwen, Python, Node.js, WebSocket, REST API, Telegram Bot API, automatización de navegador, SQLite, Qdrant, búsqueda vectorial, grafos de conocimiento, servidores dedicados, VM/emuladores, GitHub, Cursor, ZennoPoster.
-
-Disponível para consultoria, colaboración por proyecto o trabalho a tiempo completo — remoto.
-
-## Contato
-
-- Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)
-- Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
+**Contact:** [BotsLab@proton.me](mailto:BotsLab@proton.me) · [@TheBotsLab](https://t.me/TheBotsLab)

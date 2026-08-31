@@ -1,57 +1,71 @@
-# Professional Profile
+<div align="center">
+  <img src="../assets/autonomous-ai-systems-premium.png" alt="GeniusBotsLab — AI automation, software delivery and video workflows" width="100%" />
+</div>
 
-**Autonomous AI Agents · Multi-Agent Orchestration · LLMOps · AgentOps · Model Routing · Token-Cost Optimization · Local LLM · 24/7 Automation**
+# GeniusBotsLab — AI Automation, Software Delivery & Video Workflows
 
-I design and launch autonomous AI-agent systems that turn complex workflows into controlled, cost-optimized, 24/7 automation pipelines.
+**AI Automation Engineer · AI-assisted Developer · AI Video Workflow Builder**
 
-I am an AI Systems Engineer and Digital Automation Specialist with 10+ years of production experience. My core focus is autonomous agents, agent swarms, multi-agent orchestration, routing across LLM models, local deployment of open-source models, and token-cost optimization.
+I build practical, human-reviewed AI workflows for automation, software delivery and video production. My work focuses on useful systems: clear inputs, controlled tool use, validation, documented limits and deliverables people can actually use.
 
-I build reproducible production systems rather than one-off scripts. Agents collect and analyze data, write and execute code, work with APIs, browsers, documents, Telegram, databases, and servers, and deliver results in the required format.
+[**Portfolio**](#selected-public-work) · [**How I work**](#how-i-work) · [**Contact**](#contact)
+[English](en.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
 
-**Relevant roles:** Agentic AI Engineer, AI Automation Architect, LLMOps / AgentOps Engineer, AI Workflow Architect, Autonomous Systems Integration Engineer, Forward Deployed AI Engineer, Defense AI / OSINT Automation Engineer, Robotics Data & Automation Engineer.
+---
 
-## Core specialization
+## What I build
 
-I design agent systems for specific business and technical problems: from architecture and role allocation to launch, debugging, monitoring, and execution-cost optimization.
+- **AI automation & agent workflows** — research, document and API workflows with defined inputs, structured outputs, review steps and delivery paths.
+- **AI-assisted software delivery** — prototype, improve and document software using Claude, Claude Code, ChatGPT and Cursor; final changes are manually reviewed and validated.
+- **AI video workflows** — turn a brief into a concept, script, generated scene options, human-led edit, captions and delivery versions for short-form or standard video.
+- **LLMOps / AgentOps foundations** — model routing, context control, retries, fallback paths, logs, budgets and human approval where the action is consequential.
 
-I build multi-agent workflows in which a complex task is divided into stages and handled by specialized agents: researcher, parser, analyst, coder, validator, reviewer, dispatcher, executor, and reporter. Each agent has its own role, context, tools, model, and execution rules.
+## Selected public work
 
-I configure agent swarms for data collection, analysis, code generation, result validation, source monitoring, report preparation, and delivery through APIs, Telegram, files, databases, or external services.
+These public repositories are the currently verifiable part of the portfolio. They contain standalone, publishable work only — never client data, credentials or private infrastructure.
 
-I optimize token cost through model routing, prompt compression, caching, context reduction, structured outputs, local LLMs for high-volume work, and hybrid cloud + local pipelines. Simple tasks go to economical models while demanding reasoning tasks go to stronger LLMs, lowering cost per task without sacrificing quality.
+- [**Swarm Agent Coordinator**](https://github.com/GeniusBotsLab/swarm-agent-coordinator) — self-hosted coordination server for agent teams, rooms, tasks and master control.
+- [**TextFix**](https://github.com/GeniusBotsLab/textfix) — Windows hotkey utility for AI-assisted typo correction through an OpenAI-compatible API.
+- [**Self-Correcting Link Parser**](https://github.com/GeniusBotsLab/self-correcting-link-parser) — compliant public-link collection, normalization and quality-control workflow.
+- [**ZennoPoster YouTube Automation Course**](https://github.com/GeniusBotsLab/zennoposter-youtube-automation-course) — compliant YouTube workflow, video SEO and content-operations material.
 
-I deploy local LLMs — Llama, Mistral, Qwen, and other open-source models — on owned infrastructure to keep data on premises, reduce dependency on external APIs, and control unit economics.
+## AI-assisted engineering workflow
 
-## AgentOps / LLMOps
+I use AI tools as part of an engineering process, not as a substitute for responsibility:
 
-I run AI systems in production: 24/7 execution on dedicated servers, agent auto-restart, retry/fallback logic, task queues, decision and action logging, health monitoring, token-usage control, human-in-the-loop for risky actions, result validation, and reproducible runs.
+- **Claude & ChatGPT:** research, structured drafting, specifications, content variants and working notes; facts, sources and final fit are checked before delivery.
+- **Claude Code & Cursor:** repository exploration, task decomposition, draft changes, refactoring, test scenarios and documentation; final code is reviewed and tested manually.
+- **Video tools & editing software:** concept and scene exploration, selection of usable takes, editing, captions, sound and final QC. AI-generated material is clearly labelled when published.
 
-The goal is not “AI for AI’s sake,” but working systems that reduce manual labor, accelerate operations, control LLM spend, and execute tasks autonomously at scale.
+## How I work
 
-## What my agents can do
+```text
+Brief → Research → Design → Build → Validate → Human review → Deliver
+```
 
-- Autonomously collect and process data from websites, Telegram, APIs, documents, spreadsheets, email, and information streams.
-- Conduct web research, monitor sources, extract entities, classify and compare information, and generate reports.
-- Generate, run, and verify automation code.
-- Work with browsers, WebSocket, CRM systems, Telegram Bot API, files, databases, and custom backend services.
-- Make automated decisions using rules, LLM evaluation, or hybrid logic.
-- Perform OSINT and information monitoring across news, Telegram channels, signals, narratives, and relationships between actors and events.
-
-## Delivered areas
-
-Autonomous AI agents for data collection, analysis, classification, and delivery; multi-agent workflows for research, code, content, monitoring, and operations; Telegram automation including bots, channels, communication flows, lead collection, notifications, and support.
-
-Also: multichannel systems for Telegram, WhatsApp, Facebook, Instagram, TikTok, YouTube, and X; LLM content workflows; short-form video pipelines; email automation infrastructure up to 500 emails per minute; proxy networks, task queues, API integrations, servers, emulators, and VM environments.
+I design workflows with clear boundaries: what is automated, what requires approval, which data can be used, how failures are handled and how results are checked. Production claims and numeric results are only published where they can be supported by a public artefact or an approved, anonymized case study.
 
 ## Stack
 
-Claude API, GPT-4, OpenAI-compatible API, local LLMs, Llama, Mistral, Qwen, Python, Node.js, WebSocket, REST API, Telegram Bot API, browser automation, SQLite, Qdrant, vector search, knowledge graphs, dedicated servers, VM/emulators, GitHub, Cursor, ZennoPoster.
+**AI & development:** Claude · Claude Code · ChatGPT · Cursor · OpenAI-compatible APIs · Python · Node.js
+**Automation & integration:** REST APIs · WebSocket · Telegram Bot API · browser automation · workflow design
+**Data & operations:** SQLite · Qdrant · vector search · queues · logging · dedicated servers · VM/emulators
+**Media:** AI-assisted video concepts · scene generation · editing · captions · short-form delivery
 
-## Availability
+## Languages
 
-Available for consulting, project collaboration, or full-time roles. Remote work.
+Portfolio documentation is available in:
+[English](en.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
+
+English is the international reference version. Translations preserve the same public facts and links; technical names and repository titles remain in their original form.
 
 ## Contact
 
-- Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)
-- Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
+- **Email:** [BotsLab@proton.me](mailto:BotsLab@proton.me)
+- **Telegram:** [@TheBotsLab](https://t.me/TheBotsLab)
+
+**Open to:** remote AI Engineering / AI Automation roles and selected project collaborations.
+
+---
+
+<sub>Public professional portfolio only. It contains no credentials, private keys, customer data, internal infrastructure or unpublished NeuroMedia materials. AI-assisted work is disclosed at the workflow level; final responsibility, review and quality control remain human-led.</sub>
