@@ -4,7 +4,7 @@
 
 Створюю практичні AI-assisted рішення для автоматизації, розробки програмного забезпечення та відеовиробництва з обов’язковою людською перевіркою.
 
-[English](../README.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
+[English](../README.md) · [Русский](ru.md) · [Română](ro.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
 
 ## Напрями
 

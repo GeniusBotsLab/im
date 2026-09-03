@@ -4,7 +4,7 @@
 
 自動化、ソフトウェア開発、動画制作のために、人間によるレビューを組み込んだ実用的なAIワークフローを構築します。
 
-[English](../README.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
+[English](../README.md) · [Русский](ru.md) · [Română](ro.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
 
 ## 取り組む領域
 

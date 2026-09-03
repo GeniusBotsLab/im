@@ -1,71 +1,73 @@
-<div align="center">
-  <img src="assets/autonomous-ai-systems-premium.png" alt="GeniusBotsLab — AI automation, software delivery and video workflows" width="100%" />
-</div>
+# GeniusBotsLab — Agentic Systems & Reliable AI Automation
 
-# GeniusBotsLab — AI Automation, Software Delivery & Video Workflows
+**10+ years of independent practice in development, integrations, and digital automation.**
 
-**AI Automation Engineer · AI-assisted Developer · AI Video Workflow Builder**
+I design and implement controlled AI systems for multi-step business workflows. Specialized agents research, plan, execute, validate, and hand off work under defined permissions, budget limits, logs, tests, and human approval for consequential actions.
 
-I build practical, human-reviewed AI workflows for automation, software delivery and video production. My work focuses on useful systems: clear inputs, controlled tool use, validation, documented limits and deliverables people can actually use.
+[**What I build**](#what-i-build) · [**How I work**](#how-i-work) · [**Selected public work**](#selected-public-work) · [**Contact**](#contact)
 
-[**Portfolio**](#selected-public-work) · [**How I work**](#how-i-work) · [**Contact**](#contact)
-[English](README.md) · [Русский](docs/ru.md) · [简体中文](docs/zh-CN.md) · [עברית](docs/he.md) · [Français](docs/fr.md) · [Deutsch](docs/de.md) · [Español](docs/es.md) · [Português (Brasil)](docs/pt-BR.md) · [日本語](docs/ja.md) · [العربية](docs/ar.md) · [Українська](docs/uk.md)
+[English](README.md) · [Русский](docs/ru.md) · [Română](docs/ro.md) · [简体中文](docs/zh-CN.md) · [עברית](docs/he.md) · [Français](docs/fr.md) · [Deutsch](docs/de.md) · [Español](docs/es.md) · [Português (Brasil)](docs/pt-BR.md) · [日本語](docs/ja.md) · [العربية](docs/ar.md) · [Українська](docs/uk.md)
 
 ---
 
 ## What I build
 
-- **AI automation & agent workflows** — research, document and API workflows with defined inputs, structured outputs, review steps and delivery paths.
-- **AI-assisted software delivery** — prototype, improve and document software using Claude, Claude Code, ChatGPT and Cursor; final changes are manually reviewed and validated.
-- **AI video workflows** — turn a brief into a concept, script, generated scene options, human-led edit, captions and delivery versions for short-form or standard video.
-- **LLMOps / AgentOps foundations** — model routing, context control, retries, fallback paths, logs, budgets and human approval where the action is consequential.
-
-## Selected public work
-
-These public repositories are the currently verifiable part of the portfolio. They contain standalone, publishable work only — never client data, credentials or private infrastructure.
-
-- [**Swarm Agent Coordinator**](https://github.com/GeniusBotsLab/swarm-agent-coordinator) — self-hosted coordination server for agent teams, rooms, tasks and master control.
-- [**TextFix**](https://github.com/GeniusBotsLab/textfix) — Windows hotkey utility for AI-assisted typo correction through an OpenAI-compatible API.
-- [**Self-Correcting Link Parser**](https://github.com/GeniusBotsLab/self-correcting-link-parser) — compliant public-link collection, normalization and quality-control workflow.
-- [**ZennoPoster YouTube Automation Course**](https://github.com/GeniusBotsLab/zennoposter-youtube-automation-course) — compliant YouTube workflow, video SEO and content-operations material.
-
-## AI-assisted engineering workflow
-
-I use AI tools as part of an engineering process, not as a substitute for responsibility:
-
-- **Claude & ChatGPT:** research, structured drafting, specifications, content variants and working notes; facts, sources and final fit are checked before delivery.
-- **Claude Code & Cursor:** repository exploration, task decomposition, draft changes, refactoring, test scenarios and documentation; final code is reviewed and tested manually.
-- **Video tools & editing software:** concept and scene exploration, selection of usable takes, editing, captions, sound and final QC. AI-generated material is clearly labelled when published.
+- **Agentic systems and role orchestration** — researcher, analyst, planner, executor, reviewer, validator, and reporting roles connected by explicit handoffs.
+- **Long-running workflows** — state, queues, schedules, checkpoints, retries, timeouts, alerts, audit logs, and human approval where a decision is consequential.
+- **AI-assisted software delivery** — AI agents support analysis, implementation, code review, test design, and documentation; architecture, validation, security, release decisions, and accountability remain human responsibilities.
+- **Practical, permitted automation** — content, images, video, voice, SEO, SMM, consent-based email communications, advertising analytics, and internal operations.
 
 ## How I work
 
 ```text
-Brief → Research → Design → Build → Validate → Human review → Deliver
+Process audit → Pilot metrics → Agent roles and access → Build → Tests and QA → Controlled launch → Cost, quality and error monitoring → Improve
 ```
 
-I design workflows with clear boundaries: what is automated, what requires approval, which data can be used, how failures are handled and how results are checked. Production claims and numeric results are only published where they can be supported by a public artefact or an approved, anonymized case study.
+The aim is not to “automate everything” or promise a result in advance. I identify repeatable steps, define what remains human-led, and measure workflow value through cycle time, manual hours, cost per operation, quality, and errors.
 
-## Stack
+### Cost, quality, and reliability
 
-**AI & development:** Claude · Claude Code · ChatGPT · Cursor · OpenAI-compatible APIs · Python · Node.js
-**Automation & integration:** REST APIs · WebSocket · Telegram Bot API · browser automation · workflow design
-**Data & operations:** SQLite · Qdrant · vector search · queues · logging · dedicated servers · VM/emulators
-**Media:** AI-assisted video concepts · scene generation · editing · captions · short-form delivery
+- route models according to task complexity and required quality;
+- manage context, cache reusable outputs, and set token and action budgets;
+- validate structured inputs and outputs, run automated checks where criteria are formalized, and use manual review for ambiguous or high-impact results;
+- operate workflows with logs, retry/fallback paths, permissions, and observable delivery status.
 
-## Languages
+## Tools and engineering stack
 
-Portfolio documentation is available in:
-[English](README.md) · [Русский](docs/ru.md) · [简体中文](docs/zh-CN.md) · [עברית](docs/he.md) · [Français](docs/fr.md) · [Deutsch](docs/de.md) · [Español](docs/es.md) · [Português (Brasil)](docs/pt-BR.md) · [日本語](docs/ja.md) · [العربية](docs/ar.md) · [Українська](docs/uk.md)
+**LLM and agents:** ChatGPT / OpenAI-compatible APIs · Claude · Claude Code · role-based agents · tool calling · RAG and stateful workflows
 
-English is the international reference version. Translations preserve the same public facts and links; technical names and repository titles remain in their original form.
+**Development and operations:** Python · TypeScript / JavaScript · SQL · REST APIs · Webhooks · Docker · Git/GitHub · CI · automated tests · databases · queues · monitoring
+
+**Automation and media:** ZennoPoster for permitted browser workflows · browser/API integrations · Telegram Bot API · ElevenLabs · AI pipelines for text, images, video, and voice
+
+## Applied workflow areas
+
+- **Content and media:** research, briefs, drafts, localization, images, video workflows, voice, format checks, and publication queues.
+- **SEO and SMM:** research, content planning, metadata, quality checks, approved publishing workflows, and reporting.
+- **Marketing operations:** consent-based email lifecycle workflows, creative QA, campaign reporting, CRM/table updates, and notifications.
+- **Internal operations:** intake classification, data enrichment, summaries, task routing, dashboards, and reports.
+
+All integrations must use authorized accounts, permitted data, and platform-compliant workflows.
+
+## Selected public work
+
+- [**Social Media Crossposter**](https://github.com/GeniusBotsLab/social-crossposter-comment-module) — a unified workspace for publishing text, images, and video to authorized accounts and channels through permitted integrations.
+- [**Swarm Agent Coordinator**](https://github.com/GeniusBotsLab/swarm-agent-coordinator) — self-hosted coordination for teams of agents, tasks, roles, and work rooms.
+- [**TextFix**](https://github.com/GeniusBotsLab/textfix) — a Windows utility for AI-assisted text correction through an OpenAI-compatible API.
+- [**NeuroMedia Marketplace**](https://github.com/GeniusBotsLab/neuromedia-marketplace) — a public multilingual AI Marketplace showcase and safe catalog synchronization.
+- [**Self-Correcting Link Parser**](https://github.com/GeniusBotsLab/self-correcting-link-parser) — public-link collection, normalization, and quality control for compliant research workflows.
+
+## Responsible automation
+
+I work only with authorized accounts, data, and integrations. I do not build systems for spam, fake engagement, platform-restriction bypassing, unauthorized access, or actions performed without the account or data owner’s consent.
 
 ## Contact
 
 - **Email:** [BotsLab@proton.me](mailto:BotsLab@proton.me)
 - **Telegram:** [@TheBotsLab](https://t.me/TheBotsLab)
 
-**Open to:** remote AI Engineering / AI Automation roles and selected project collaborations.
+**Have a repeated workflow that consumes team time?** Send its inputs, expected outcome, frequency, systems involved, and constraints. The first step is to determine whether it is suitable for a measurable automation pilot.
 
 ---
 
-<sub>Public professional portfolio only. It contains no credentials, private keys, customer data, internal infrastructure or unpublished NeuroMedia materials. AI-assisted work is disclosed at the workflow level; final responsibility, review and quality control remain human-led.</sub>
+<sub>Public professional portfolio only. It contains no credentials, client data, private infrastructure, or unpublished materials. Numeric claims and production outcomes are published only where they can be supported by a permitted public artifact or anonymized evidence.</sub>

@@ -9,7 +9,7 @@
 I build practical, human-reviewed AI workflows for automation, software delivery and video production. My work focuses on useful systems: clear inputs, controlled tool use, validation, documented limits and deliverables people can actually use.
 
 [**Portfolio**](#selected-public-work) · [**How I work**](#how-i-work) · [**Contact**](#contact)
-[English](en.md) · [Русский](ru.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
+[English](en.md) · [Русский](ru.md) · [Română](ro.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
 
 ---
 
