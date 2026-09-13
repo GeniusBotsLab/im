@@ -1,60 +1,33 @@
-# GeniusBotsLab — агентные системы и надёжная AI-автоматизация
+# GeniusBotsLab — агентные системы и AI-автоматизация
 
-**Инженер AI-автоматизации для управляемых и измеримых бизнес-процессов.**
+Заказать можно: оркестрацию нескольких агентов, LLMOps, интеграции через официальные API и RPA на системах, которыми уже владеет клиент.
 
-Проектирую AI-системы, в которых специализированные агенты исследуют, планируют, выполняют, рецензируют, валидируют и формируют отчёты через явную передачу задач, права доступа, бюджеты, логи и человеческое подтверждение значимых действий.
+Агенты исследуют, планируют, выполняют, проверяют и отчитываются. Человек сохраняет контроль над архитектурой, безопасностью, релизом и одобрением действий с существенными последствиями.
 
-[English](en.md) · [Русский](ru.md) · [Română](ro.md) · [简体中文](zh-CN.md) · [עברית](he.md) · [Français](fr.md) · [Deutsch](de.md) · [Español](es.md) · [Português (Brasil)](pt-BR.md) · [日本語](ja.md) · [العربية](ar.md) · [Українська](uk.md)
-
----
-
-## Возможности
-
-- **Оркестрация мультиагентных систем** — роли исследователя, аналитика, планировщика, исполнителя, ревьюера, валидатора и отчётности с определёнными зонами ответственности.
-- **Длительные workflow** — состояние, очереди, расписания, чекпоинты, повторы, таймауты, уведомления, журналы аудита и точки подтверждения.
-- **AI-assisted software delivery** — Claude, Claude Code и ChatGPT помогают в исследовании, реализации, ревью, проектировании тестов и документации; архитектура, безопасность, валидация, релизы и решения остаются ответственностью человека.
-- **Авторизованные социальные и медиа-сценарии** — согласованные публикации, модерация комментариев и ответы, контент-планирование, пайплайны изображений/видео/голоса, отчётность и внутренние операции.
-
-## Инженерная практика
-
-```text
-Аудит процесса → Метрики пилота → Роли и доступ → Реализация → Тесты и QA → Контролируемый запуск → Мониторинг стоимости, качества и ошибок → Улучшение
-```
-
-Там, где это применимо, обязательны модульные, интеграционные и end-to-end тесты; CI запускает согласованный набор автоматических проверок. Структурированные входы и выходы валидируются, а неоднозначные или критичные результаты направляются на проверку человеком.
-
-### Модели, RAG и надёжность
-
-- Подбираю модели по сложности задачи, требуемому качеству и стоимости.
-- Управляю контекстом, кеширую повторно используемые результаты и задаю токен- и action-бюджеты.
-- Применяю RAG и workflow с состоянием там, где нужен поиск с опорой на источники.
-- Обеспечиваю наблюдаемость, права доступа, статусы доставки, retry/fallback-сценарии и документированную обработку сбоев.
+Используются только авторизованные аккаунты, данные владельца и разрешённые интеграции. Нет спама, фальшивых личностей, ферм вовлечения, обхода CAPTCHA/антифрода и доступа без владельца.
 
 ## Стек
 
-**AI и агенты:** Claude · Claude Code · ChatGPT · OpenAI-compatible API · ролевые агенты · вызов инструментов · RAG
+Python · TypeScript / JavaScript · Go · SQL · REST · webhooks · Docker · CI · очереди · Claude · ChatGPT · OpenAI-compatible APIs · RAG по корпусам клиента · Telegram Bot API · ZennoPoster на back-office клиента · Remotion · ElevenLabs
 
-**Инженерия:** Python · TypeScript / JavaScript · SQL · REST API · webhooks · Docker · Git/GitHub · CI · автоматические тесты · базы данных · очереди · мониторинг
+## Публичный код
 
-**Автоматизация и медиа:** разрешённые браузерные/API-интеграции · Telegram Bot API · ElevenLabs · AI-пайплайны для текста, изображений, видео и голоса
+- [Swarm Agent Coordinator](https://github.com/GeniusBotsLab/swarm-agent-coordinator)
+- [TextFix](https://github.com/GeniusBotsLab/textfix)
+- [NeuroMedia Agent Memory](https://github.com/GeniusBotsLab/neuromedia-agent-memory)
+- [NeuroMedia Transcriptor](https://github.com/GeniusBotsLab/neuromedia-transcriptor)
+- [NeuroMedia ShotCraft](https://github.com/GeniusBotsLab/neuromedia-shotcraft)
+- [NeuroMedia Voice Studio](https://github.com/GeniusBotsLab/neuromedia-voice-studio)
+- [NeuroMedia iOS Builder](https://github.com/GeniusBotsLab/neuromedia-ios-builder)
 
-## Избранные публичные проекты
+## Документация workspace-модулей
 
-- [**Social Media Crossposter**](https://github.com/GeniusBotsLab/social-crossposter-comment-module) — рабочее пространство для публикации текста, изображений и видео в авторизованные аккаунты и каналы через разрешённые интеграции.
-- [**Swarm Agent Coordinator**](https://github.com/GeniusBotsLab/swarm-agent-coordinator) — self-hosted координация команд агентов, задач, ролей и рабочих комнат.
-- [**TextFix**](https://github.com/GeniusBotsLab/textfix) — Windows-утилита для AI-assisted исправления текста через OpenAI-compatible API.
-- [**NeuroMedia Marketplace**](https://github.com/GeniusBotsLab/neuromedia-marketplace) — публичная многоязычная витрина AI Marketplace и безопасная синхронизация каталога.
-- [**Self-Correcting Link Parser**](https://github.com/GeniusBotsLab/self-correcting-link-parser) — сбор публичных ссылок, нормализация и контроль качества для разрешённых исследовательских процессов.
-
-## Ответственная автоматизация
-
-Работаю только с авторизованными аккаунтами, разрешёнными данными и интеграциями, с согласием владельца и в соответствии с правилами платформ. Я **не** создаю и не использую решения для спама, фальшивых личностей, искусственной накрутки вовлечённости, обхода правил платформ, CAPTCHA или антифрод-защит, а также несанкционированного доступа. Заявлений о массовой регистрации аккаунтов нет.
+- [Social workspace](https://github.com/GeniusBotsLab/social-crossposter-comment-module)
+- [TikTok workspace](https://github.com/GeniusBotsLab/tiktok-account-registrator)
+- [VK workspace](https://github.com/GeniusBotsLab/vk-account-registrator)
+- [WhatsApp Business HTTP](https://github.com/GeniusBotsLab/whatsapp-core-api)
+- [Link quality control](https://github.com/GeniusBotsLab/self-correcting-link-parser)
 
 ## Контакт
 
-- **Email:** [BotsLab@proton.me](mailto:BotsLab@proton.me)
-- **Telegram:** [@TheBotsLab](https://t.me/TheBotsLab)
-
----
-
-<sub>Только публичное профессиональное портфолио. Оно не содержит учётных данных, клиентских данных, приватной инфраструктуры или неопубликованных материалов. Количественные и production-утверждения публикуются лишь при наличии разрешённого публичного артефакта или обезличенного подтверждения.</sub>
+[BotsLab@proton.me](mailto:BotsLab@proton.me) · [Telegram @TheBotsLab](https://t.me/TheBotsLab)
